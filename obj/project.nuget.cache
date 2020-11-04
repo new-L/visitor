@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBsdzO5Qc67NaD+08Z+AI/v+5pj9tlfLzwF4smdWFhAwf7HQduoTM+m8ZGZNdgMdnHxUkcRokTqER3nxL7cwOA==",
+  "success": true,
+  "projectFilePath": "D:\\C#Project\\Visitor\\Visitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
